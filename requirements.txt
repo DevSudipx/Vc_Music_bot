@@ -1,0 +1,9 @@
+pyrogram==2.0.37
+tgcrypto==1.4.3
+pytgcalls==3.0.1
+yt-dlp==2025.06.01
+motor==4.3.0
+aiohttp==3.8.5
+python-dotenv==1.0.0
+loguru==0.7.0
+uvloop==0.17.0
